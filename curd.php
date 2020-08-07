@@ -1,0 +1,1 @@
+CREATE TABLE `crud`( `id` INT(11) NOT NULL AUTO_INCREMENT,`crud` VARCHAR(255), `status` ENUM('0','1'), PRIMARY KEY (`id`) );
